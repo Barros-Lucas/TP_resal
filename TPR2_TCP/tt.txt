@@ -1,0 +1,3 @@
+Partie avec l'utilisation de socket uniquement
+
+Exemple d'un clientTcp pour tester le serveurTCP

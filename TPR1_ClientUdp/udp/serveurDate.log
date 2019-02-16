@@ -1,0 +1,35 @@
+2019/01/30 16:28:10 Server started
+2019/01/30 16:28:10 Listen on :8000
+2019/01/30 17:12:49 Received f from 127.0.0.1:36620
+2019/01/30 17:13:57 Received help from 127.0.0.1:46781
+2019/01/30 17:14:02 Received date from 127.0.0.1:46781
+2019/01/30 17:14:11 Received paques from 127.0.0.1:46781
+2019/01/30 17:14:49 Received QUIT from 127.0.0.1:39497
+2019/01/30 17:15:47 Received date from 127.0.0.1:59860
+2019/01/30 17:15:49 Received exit from 127.0.0.1:59860
+2019/01/30 17:30:43 Server stopped...
+2019/02/01 14:37:41 Server started
+2019/02/01 14:37:42 listen udp :50: bind: permission denied
+2019/02/01 14:37:49 Server started
+2019/02/01 14:37:49 listen udp :50: bind: permission denied
+2019/02/01 14:38:29 Server started
+2019/02/01 14:38:29 Listen on :8000
+2019/02/01 14:45:52 Server stopped...
+2019/02/01 15:33:37 Server started
+2019/02/01 15:33:37 Listen on :8002
+2019/02/01 15:33:40 Received PING from 127.0.0.1:54529
+2019/02/01 15:35:09 Received PING from 127.0.0.1:38317
+2019/02/01 15:35:17 Received PING from 127.0.0.1:44873
+2019/02/01 15:58:31 Server stopped...
+2019/02/01 15:58:33 Server started
+2019/02/01 15:58:33 Listen on :8002
+2019/02/01 16:00:24 Server stopped...
+2019/02/01 16:04:31 Server started
+2019/02/01 16:04:31 Listen on :8002
+2019/02/01 16:06:30 Received help from 127.0.0.1:39656
+2019/02/01 16:07:09 Received help from 127.0.0.1:36417
+2019/02/01 16:07:11 Received date from 127.0.0.1:36417
+2019/02/16 21:23:03 Serveur started
+2019/02/16 21:23:09 Received help from 127.0.0.1:50755
+2019/02/16 21:23:10 Received date from 127.0.0.1:50755
+2019/02/16 21:23:14 Serveur stopped...
